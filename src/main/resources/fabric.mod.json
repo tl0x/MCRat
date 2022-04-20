@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "fd",
+  "version": "${version}",
+  "name": "FoxDupe",
+  "description": "dupe",
+  "authors": [
+    "version"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/fd/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.version.a.dupe"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "fd.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3"
+  }
+}

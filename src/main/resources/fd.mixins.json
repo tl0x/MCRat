@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.version.a.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [],
+  "client": [
+    "MinecraftClientAccessor"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
